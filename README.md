@@ -1,5 +1,4 @@
 # kamojify
-[![Discord](https://discord.gg/Mrj6hdx)]
 add kamojis to strings
 
 ### install:
