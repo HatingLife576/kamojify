@@ -3,12 +3,9 @@
   "version": "1.0.1",
   "description": "add kamojis to strings",
   "main": "kamojify.js",
-  "scripts": {
-    "test": "npm run kamojify"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/owocean/kamojify.git"
+    "url": "https://github.com/owocean/kamojify.git"
   },
   "keywords": [
     "fun",
