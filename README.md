@@ -9,6 +9,12 @@ $ npm install kamojify
 
 ### usage:
 
-```
-//working on it
+```javascript
+const kamojify = require("kamojify");
+
+var str = "Foo";
+
+var kamstr = kamojify(str);
+
+console.log(kamstr);
 ```
