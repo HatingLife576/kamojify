@@ -1,10 +1,14 @@
 # kamojify
 add kamojis to strings
 
-**install:**
+###**install:**
 
-```$ npm install kamojify```
+```
+$ npm install kamojify
+```
 
-**usage:**
+###**usage:**
 
-`(also no usage yet :/)`
+```
+//working on it
+```
