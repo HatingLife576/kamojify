@@ -2,7 +2,7 @@
 add kamojis to strings
 
 **install:**
-`(currently not installable :/)`
+```$ npm install kamojify```
 
 **usage:**
 `(also no usage yet :/)`
