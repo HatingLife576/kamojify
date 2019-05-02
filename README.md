@@ -12,9 +12,12 @@ $ npm install kamojify
 ```javascript
 const kamojify = require("kamojify");
 
+
 var str = "Foo";
 
+
 var kamstr = kamojify(str);
+
 
 console.log(kamstr);
 ```
