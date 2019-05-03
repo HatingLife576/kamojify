@@ -21,3 +21,4 @@ var kamstr = kamojify(str);
 
 console.log(kamstr);
 ```
+ 
